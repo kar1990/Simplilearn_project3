@@ -1,7 +1,7 @@
-class demo
+class Demo
 {
-	public static void main(strings args[])
+	public static void main (strings args[])
 	{	
-		System.out.println("This is my demo java file");
+		System.out.pritln("This is Java file");
 	}
 }
